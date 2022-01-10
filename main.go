@@ -6,10 +6,10 @@ import (
 	"os"
 
 	"github.com/99designs/gqlgen/api"
-	"github.com/Yamashou/gqlgenc/clientgen"
-	"github.com/Yamashou/gqlgenc/clientgenv2"
-	"github.com/Yamashou/gqlgenc/config"
-	"github.com/Yamashou/gqlgenc/generator"
+	"github.com/RotterdamLogisticsLab/gqlgenc/clientgen"
+	"github.com/RotterdamLogisticsLab/gqlgenc/clientgenv2"
+	"github.com/RotterdamLogisticsLab/gqlgenc/config"
+	"github.com/RotterdamLogisticsLab/gqlgenc/generator"
 )
 
 func main() {
